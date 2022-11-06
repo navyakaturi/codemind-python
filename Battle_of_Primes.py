@@ -13,4 +13,3 @@ while(True):
         break
     c+=1
 print(c-n1-n2)
-        
